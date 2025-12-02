@@ -4,6 +4,12 @@ A Figma plugin for visualizing complex variable alias chains and usage relations
 
 > **⚠️ Experimental Status**: This is a highly experimental MVP exploring network visualization concepts. Many features are incomplete or don't work as intended. Use at your own risk.
 
+## Why This Plugin Exists
+
+Complex design systems need better tools for understanding variable relationships. Figma's native variable panel shows variables but not their interconnections. This plugin is an experiment in making those invisible relationships visible.
+
+It's rough, unfinished, and might not work for your use case - but it represents a step toward better tooling for complex design systems.
+
 ## Use Case
 
 Building design systems with multi-layered variable architectures creates cognitive overload. When you have:
@@ -182,12 +188,6 @@ npm run build
 - [ ] Edit variables directly from the plugin
 - [ ] Compare networks across files/versions
 - [ ] Template systems for common alias patterns
-
-## Why This Exists
-
-Complex design systems need better tools for understanding variable relationships. Figma's native variable panel shows variables but not their interconnections. This plugin is an experiment in making those invisible relationships visible.
-
-It's rough, unfinished, and might not work for your use case - but it represents a step toward better tooling for complex design systems.
 
 ## Contributing
 
