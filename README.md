@@ -10,6 +10,19 @@ Complex design systems need better tools for understanding variable relationship
 
 It's rough, unfinished, and might not work for your use case - but it represents a step toward better tooling for complex design systems.
 
+## Screenshots
+
+<p align="center">
+<img width="817" height="658" alt="Screenshot 2025-12-02 at 14 13 24" src="https://github.com/user-attachments/assets/00701b2a-1b3d-476f-a1ce-35a4f04f0821" />
+</p>
+
+<p align="center">
+  <img width="817" height="658" alt="Screenshot 2025-12-02 at 14 13 59" src="https://github.com/user-attachments/assets/407aed14-93b9-4653-97de-aa1641362a2b" />
+</p>
+<p align="center">
+    <img width="817" height="658" alt="Screenshot 2025-12-02 at 14 14 56" src="https://github.com/user-attachments/assets/cf6098b0-b33b-4d0b-b9d4-aa37ebad391e" />
+</p>
+
 ## Use Case
 
 Building design systems with multi-layered variable architectures creates cognitive overload. When you have:
@@ -73,11 +86,6 @@ Building design systems with multi-layered variable architectures creates cognit
 - Real-time search through all variables
 - Highlights matching terms in results
 - Searches both variable names and collection names
-
-## Screenshots
-
-<!-- Add screenshots here once available -->
-_Screenshots coming soon_
 
 ## Installation
 
